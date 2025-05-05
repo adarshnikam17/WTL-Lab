@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A demonstration of all HTML tags in one document.">
+  <title>HTML Tags</title>
+ 
+</head>
+<body>
+
+<header>
+  <h1>HTML Tags</h1>
+  <nav>
+    <a href="#text">Text</a>
+    <a href="#multimedia">Multimedia</a>
+    <a href="#forms">Forms</a>
+    <a href="#tables">Tables</a>
+    <a href="#lists">Lists</a>
+  </nav>
+</header>
+
+<main>
+  <section id="text">
+    <h2>Text and Semantic Tags</h2>
+    <p>This is a paragraph (<code>&lt;p&gt;</code> tag). Below are examples of text formatting:</p>
+    <p><strong>Bold text</strong>, <em>italic text</em>, <u>underlined text</u>, <mark>highlighted text</mark>, <del>deleted text</del>, and <ins>inserted text</ins>.</p>
+    <blockquote cite="https://www.example.com">This is a blockquote for longer quotes.</blockquote>
+    <pre>
+This is preformatted text.
+It respects spacing and line breaks.
+    </pre>
+    <address>
+      Contact us at: <a href="mailto:info@example.com">info@example.com</a>
+    </address>
+  </section>
+
+  <section id="multimedia">
+    <h2>Multimedia</h2>
+    <p>Image:</p>
+    <img src="vkk.jpg" alt="Placeholder Image" height="200" width="200">
+    <p>Audio:</p>
+    <audio controls>
+      <source src="audio.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+    </audio>
+    <p>Video:</p>
+    <video controls width="300">
+      <source src="virushka.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </section>
+
+  <section id="forms">
+    <h2>Forms</h2>
+    <form action="#" method="post">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" placeholder="Enter your name" required>
+      <br><br>
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" placeholder="Enter your email" required>
+      <br><br>
+      <label for="password">Password:</label>
+      <input type="password" id="password" name="password">
+      <br><br>
+      <label for="gender">Gender:</label>
+      <input type="radio" id="male" name="gender" value="male">
+      <label for="male">Male</label>
+      <input type="radio" id="female" name="gender" value="female">
+      <label for="female">Female</label>
+      <br><br>
+      <label for="favoritePlayer">Favorite Cricketer:</label>
+      <select id="favoritePlayer" name="favoritePlayer">
+        <option value="virat">Virat Kohli</option>
+        <option value="msd">MS Dhoni</option>
+        <option value="rohit">Rohit Sharma</option>
+      </select>
+      <br><br>
+      <label for="favoriteTeam">Favorite IPL Team:</label>
+      <select id="favoriteTeam" name="favoriteTeam">
+        <option value="rcb">Royal Challengers Bangalore</option>
+        <option value="csk">Chennai Super Kings</option>
+        <option value="mi">Mumbai Indians</option>
+      </select>
+      <br><br>
+      <label for="hobbies">Hobbies:</label>
+      <input type="checkbox" id="reading" name="hobbies" value="Reading">
+      <label for="reading">Reading</label>
+      <input type="checkbox" id="cricket" name="hobbies" value="Cricket">
+      <label for="cricket">Playing/Watching Cricket</label>
+      <input type="checkbox" id="traveling" name="hobbies" value="Traveling">
+      <label for="traveling">Traveling</label>
+      <br><br>
+      <label for="country">Country:</label>
+      <select id="country" name="country">
+        <option value="india">India</option>
+        <option value="usa">USA</option>
+        <option value="uk">UK</option>
+      </select>
+      <br><br>
+      <input type="submit" value="Submit">
+    </form>
+  </section>
+  
+
+  <section id="tables">
+    <h2>Tables</h2>
+    <table>
+      <caption>Top Cricket Players Stats</caption>
+      <thead>
+        <tr>
+          <th>Player</th>
+          <th>Matches</th>
+          <th>Runs</th>
+          <th>Centuries</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Virat Kohli</td>
+          <td>274</td>
+          <td>12,898</td>
+          <td>47</td>
+        </tr>
+        <tr>
+          <td>MS Dhoni</td>
+          <td>350</td>
+          <td>10,773</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Rohit Sharma</td>
+          <td>243</td>
+          <td>9,825</td>
+          <td>30</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+  
+  <section id="lists">
+    <h2>Lists</h2>
+    <p>Ordered List of Favorite Cricketers:</p>
+    <ol>
+      <li>Virat Kohli</li>
+      <li>MS Dhoni</li>
+      <li>Rohit Sharma</li>
+    </ol>
+    <p>Unordered List of Favorite IPL Teams:</p>
+    <ul>
+      <li>Royal Challengers Bangalore (RCB)</li>
+      <li>Chennai Super Kings (CSK)</li>
+      <li>Mumbai Indians (MI)</li>
+    </ul>
+    <p>Definition List of Cricket Terms:</p>
+    <dl>
+      <dt>ODI</dt>
+      <dd>One Day International</dd>
+      <dt>T20</dt>
+      <dd>Twenty20 Cricket</dd>
+      <dt>Test</dt>
+      <dd>The longest format of cricket</dd>
+    </dl>
+  </section>
+  </main>
+
+
+</body>
+</html>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="grades.css"?>
+<grades>
+    <student>
+        <name>Adarsh Nikam</name>
+        <subject>Mathematics</subject>
+        <grade>A</grade>
+    </student>
+    <student>
+        <name>Virat Kohli</name>
+        <subject>Sports Science</subject>
+        <grade>A+</grade>
+    </student>
+    <student>
+        <name>Pranav Chandam</name>
+        <subject>Data Structures</subject>
+        <grade>B</grade>
+    </student>
+    <student>
+        <name>Ganesh Bayagalli</name>
+        <subject>Thermodynamics</subject>
+        <grade>B+</grade>
+    </student>
+    <student>
+        <name>Pratik Santi</name>
+        <subject>Circuits</subject>
+        <grade>A</grade>
+    </student>
+</grades>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="attendance.css"?>
+<attendance>
+    <student>
+        <name>Adarsh Nikam</name>
+        <days_present>85</days_present>
+    </student>
+    <student>
+        <name>Virat Kohli</name>
+        <days_present>95</days_present>
+    </student>
+    <student>
+        <name>Pranav Chandam</name>
+        <days_present>80</days_present>
+    </student>
+    <student>
+        <name>Ganesh Bayagalli</name>
+        <days_present>78</days_present>
+    </student>
+    <student>
+        <name>Pratik Santi</name>
+        <days_present>88</days_present>
+    </student>
+</attendance>

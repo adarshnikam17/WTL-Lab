@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="std.css"?>
+<students>
+    <student>
+        <name>Adarsh Nikam</name>
+        <age>21</age>
+        <course>Computer Science</course>
+        <rollno>16</rollno>
+        <email>adarshnikam@gmail.com</email>
+    </student>
+    <student>
+        <name>Virat Kohli</name>
+        <age>35</age>
+        <course>Sports Science</course>
+        <rollno>18</rollno>
+        <email>virat18@gmail.com</email>
+    </student>
+    <student>
+        <name>Pranav Chandam</name>
+        <age>22</age>
+        <course>Information Technology</course>
+        <rollno>37</rollno>
+        <email>pranav2050@gmail.com</email>
+    </student>
+    <student>
+        <name>Ganesh Bayagalli</name>
+        <age>23</age>
+        <course>Mechanical Engineering</course>
+        <rollno>21</rollno>
+        <email>ganeshb19@gmail.com</email>
+    </student>
+    <student>
+        <name>Pratik Santi</name>
+        <age>20</age>
+        <course>Electrical Engineering</course>
+        <rollno>40</rollno>
+        <email>pratik1818@gmail.com</email>
+    </student>
+</students>

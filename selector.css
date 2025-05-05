@@ -1,0 +1,27 @@
+
+p {
+    color: blue;
+}
+
+#A {
+    color: red;
+    font-weight: bold;
+}
+
+.b {
+    color: green;
+    font-style: italic;
+}
+
+h1,h2{
+    background-color: aquamarine;
+}
+
+div p{
+    color: brown;
+}
+
+.parent > p {
+    color: red;
+}
+

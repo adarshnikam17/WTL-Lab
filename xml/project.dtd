@@ -1,0 +1,9 @@
+<!ELEMENT team (member+)>
+
+<!ELEMENT member (name, expertise, email, contact)>
+<!ATTLIST member role CDATA #REQUIRED>
+
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT expertise (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT contact (#PCDATA)>

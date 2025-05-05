@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="rule.css"?>
+
+<library>
+    <book>
+        <title>Wings of Fire</title>
+        <author>A.P.J. Abdul Kalam, Arun Tiwari</author>
+        <price currency="INR">299</price>
+        <year>1999</year>
+        <genre>Autobiography</genre>
+    </book>
+
+    <book>
+        <title>The White Tiger</title>
+        <author>Aravind Adiga</author>
+        <price currency="INR">350</price>
+        <year>2008</year>
+        <genre>Fiction</genre>
+    </book>
+
+    <book>
+        <title>Train to Pakistan</title>
+        <author>Khushwant Singh</author>
+        <price currency="INR">280</price>
+        <year>1956</year>
+        <genre>Historical Fiction</genre>
+    </book>
+
+    <book>
+        <title>The Palace of Illusions</title>
+        <author>Chitra Banerjee Divakaruni</author>
+        <price currency="INR">400</price>
+        <year>2008</year>
+        <genre>Mythological Fiction</genre>
+    </book>
+</library>

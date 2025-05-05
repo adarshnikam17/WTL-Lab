@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="project.css"?>
+
+<team>
+    <member role="Cloud Solutions Architect">
+        <name>Adarsh Nikam</name>
+        <expertise>Cloud Infrastructure, DevOps, AWS, Azure</expertise>
+        <email>adarsh18@gmail.com</email>
+        <contact>8698772892</contact>
+    </member>
+    <member role="Backend Engineer">
+        <name>Pratik Santi</name>
+        <expertise>Microservices, REST APIs, Node.js, MongoDB</expertise>
+        <email>pratiksanti@gmail.com</email>
+        <contact>7030568566</contact>
+    </member>
+    <member role="Frontend Engineer">
+        <name>Suresh Halkude</name>
+        <expertise>React.js, TypeScript, UI/UX Design, Redux</expertise>
+        <email>sureshhalkude@gmail.com</email>
+        <contact>9096220000</contact>
+    </member>
+    <member role="Database Administrator">
+        <name>Adarsh</name>
+        <expertise>SQL Optimization, MySQL, PostgreSQL, NoSQL</expertise>
+        <email>adarshnikam@gmail.com</email>
+        <contact>7463889292</contact>
+    </member>
+    <member role="Java Developer">
+        <name>Pratik Patil</name>
+        <expertise>Spring Boot, Hibernate, RESTful Services, JPA</expertise>
+        <email>rohan.patil@gmail.com</email>
+        <contact>9988776655</contact>
+    </member>
+</team>

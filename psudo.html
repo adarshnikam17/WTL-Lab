@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudo-Classes</title>
+    <link rel="stylesheet" href="psudo.css">
+</head>
+<body>
+
+    <style>
+        p {
+            width: 300px; /* Restrict width to ensure multiple lines */
+        }
+
+        p::first-line {
+            color: #ff0000;
+            font-variant: small-caps;
+        }
+    </style>
+</head>
+<body>
+
+    <p>
+        This is an example paragraph. The first line of this paragraph will appear in red color and small-caps format. The remaining text will follow the default styling. Make sure there is enough content to span multiple lines for the effect to be visible.
+    </p>
+
+    <h2>Main Pseudo-Class Examples</h2>
+
+    <a href="https://www.google.com" class="link">Visit Google</a>
+
+    <input type="text" class="focus-input" placeholder="Focus here">
+
+    <h2>Pseudo classes</h2>
+    <button class="btn">Submit</button> <br><br>
+
+    <button class="clickme">Click me</button><br><br>
+    <a href="#" >Visit the link</a><br><br>
+
+    <input type="text" placeholder="Enter name">
+
+</body>
+</html>
