@@ -1,0 +1,28 @@
+Name: Adarsh Nikam
+Age: 21
+Village: Koge
+District: Kolhapur
+State: Maharashtra
+Date of Birth: 18/04/2002
+
+Education:
+- Pursuing B.E. in Computer Science and Engineering
+- Graduation Year: 2026
+
+Technical Skills:
+- Programming Languages: C, C++, Java, Python
+- Web Technologies: HTML, CSS, JavaScript, PHP, React.js
+- Database: MySQL
+- Tools: VS Code, GitHub, Postman
+- Interests: Cloud Computing, AI/ML, Cybersecurity
+
+Hobbies:
+- Coding and Building Projects
+- Watching Cricket
+- Exploring New Tech
+
+Favourite Cricketer: Virat Kohli  
+Goal: To become a top Software Engineer and make an impact in the tech world.
+
+Quotes:
+"Set your goal. Chase it. Never give up."
